@@ -1,1 +1,1 @@
-# internship-dashboard-project
+![My Dashboard](dashboard.png)
