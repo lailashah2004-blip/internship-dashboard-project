@@ -1,6 +1,6 @@
-#Simple Sales Dashboard Design
+# Simple Sales Dashboard Design
 
-##1. Project Approach & Overview
+## 1. Project Approach & Overview
 * **Objective:** Deployed an optimized analytics dashboard for Veda Tech to visualize key business metrics.
 * **Layout Optimization:** Configured dashboard containers to use the **Entire View** dynamic sizing layout. This fixed the display issues, maximizing visual screen coverage without requiring vertical or horizontal scrolling.
 
